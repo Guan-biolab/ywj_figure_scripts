@@ -1,4 +1,4 @@
-# ywj_figure_scripts
+# YWJ Figure Scripts
 Some scripts of different figures by jupyter 
 
 # Fig.1 World Map #
